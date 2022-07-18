@@ -182,7 +182,7 @@ if __name__ == "__main__":
 
         if "ENS" in opt.dset:
             opt.root = "Sox10+Progenitor"
-            color_dict = color_dict_planaria
+            color_dict = color_dict_ENS
 
         # read and preprocess the dataset
         features, labels = prepare_data(opt.path + opt.dset,

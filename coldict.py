@@ -4,6 +4,25 @@
 # This source code is licensed under the license found in the
 # LICENSE file in the root directory of this source tree.
 
+color_dict_ENS = {	'ENC_1':'#1f77b4',
+					'ENC_2':'#ff7f0e',
+					'ENC_3':'#279e68',
+					'ENC_4':'#d62728',
+					'ENC_5':'#aa40fc',
+					'ENC_6':'#8c564b',
+					'ENC_7':'#e377c2',
+					'ENC_8':'#b5bd61',
+					'ENC_9':'#17becf',
+					'ENC_10':'#aec7e8',
+					'ENC_11':'#ffbb78',
+					'ENC_12':'#98df8a',
+					'Infected_DuoJej':'#ff9896',
+					'Lpp+Myh11+':'#c5b0d5',
+					'Rbpms+Meis2+':'#c49c94',
+					'Ace2+':'#f7b6d2',
+					'Sox6+Muc16+':'#dbdb8d',
+					'Sox10+Progenitor':'#9edae5'}
+
 color_dict_paul = {'12Baso': '#0570b0', '13Baso': '#034e7b',
 	 '11DC': '#ffff33', 
 	 '18Eos': '#2CA02C', 
