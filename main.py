@@ -181,7 +181,7 @@ if __name__ == "__main__":
             color_dict = color_dict_planaria
 
         if "ENS" in opt.dset:
-            opt.root = "Sox10+Progenitor"
+            opt.root = "Il31ra+Glia"
             color_dict = color_dict_ENS
 
         # read and preprocess the dataset
